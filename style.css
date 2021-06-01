@@ -1,0 +1,12 @@
+.hide {
+ display: none;
+}
+
+.div {
+display: flex;
+justify-content: center;
+}
+
+li {
+  margin-top: 20px;
+}
